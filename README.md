@@ -1,3 +1,7 @@
+# Description
+
+A simple Todo App created using React that has local storage. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
