@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: black;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.border-white {
+  border: 2px solid white;
 }
+
+
+.text-blue {
+  color: paleturquoise;
+}
+
+.btn-blue {
+  background-color: paleturquoise;
+}
+
+.done:hover {
+  text-decoration: line-through;
+}
+
+input.list-check {
+  width: 25px;
+  height: 25px;
+}
+
